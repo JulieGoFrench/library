@@ -1,0 +1,5 @@
+For now it's only two modules : easy_library that provides an esay library and 
+easy_library_dewey_service that provides a service for the easy_library (main) module. 
+
+Ultimatly, I'm currently trying to inject the entity esay_library_subscribers and entity
+created ny an other module within the easy library module
