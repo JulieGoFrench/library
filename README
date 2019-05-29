@@ -1,3 +1,6 @@
+ 	Julie_s_Free_Library_Utilities_package.zip is the package with both modules while 
+ easy_library.zip and easy_library_dewey_service.zip are the 2 modules separated. 
+
 For now it's only two modules : easy_library that provides an esay library and 
 easy_library_dewey_service that provides a service for the easy_library (main) module. 
 
